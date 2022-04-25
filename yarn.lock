@@ -2092,250 +2092,6 @@
   resolved "https://registry.npmjs.org/@mapbox/point-geometry/-/point-geometry-0.1.0.tgz#8a83f9335c7860effa2eeeca254332aa0aeed8f2"
   integrity sha1-ioP5M1x4YO/6Lu7KJUMyqgru2PI=
 
-"@material/animation@12.0.0-canary.22d29cbb4.0":
-  version "12.0.0-canary.22d29cbb4.0"
-  resolved "https://artifactory.colortokens.com/artifactory/api/npm/npm/@material/animation/-/animation-12.0.0-canary.22d29cbb4.0.tgz#662314409f968aa14156a87284d1f49a098880be"
-  integrity sha1-ZiMUQJ+WiqFBVqhyhNH0mgmIgL4=
-  dependencies:
-    tslib "^2.1.0"
-
-"@material/base@12.0.0-canary.22d29cbb4.0", "@material/base@=12.0.0-canary.22d29cbb4.0":
-  version "12.0.0-canary.22d29cbb4.0"
-  resolved "https://artifactory.colortokens.com/artifactory/api/npm/npm/@material/base/-/base-12.0.0-canary.22d29cbb4.0.tgz#a1d54c0605278ce68a323e60f097f0a0a66e6a88"
-  integrity sha1-odVMBgUnjOaKMj5g8JfwoKZuaog=
-  dependencies:
-    tslib "^2.1.0"
-
-"@material/density@12.0.0-canary.22d29cbb4.0":
-  version "12.0.0-canary.22d29cbb4.0"
-  resolved "https://artifactory.colortokens.com/artifactory/api/npm/npm/@material/density/-/density-12.0.0-canary.22d29cbb4.0.tgz#2fce30a88ad93ddf4376e7a9bb481119c954965d"
-  integrity sha1-L84wqIrZPd9Dduepu0gRGclUll0=
-  dependencies:
-    tslib "^2.1.0"
-
-"@material/dom@12.0.0-canary.22d29cbb4.0", "@material/dom@=12.0.0-canary.22d29cbb4.0":
-  version "12.0.0-canary.22d29cbb4.0"
-  resolved "https://artifactory.colortokens.com/artifactory/api/npm/npm/@material/dom/-/dom-12.0.0-canary.22d29cbb4.0.tgz#c9926d9fbeb5c165142dcadee934e228726412b1"
-  integrity sha1-yZJtn761wWUULcre6TTiKHJkErE=
-  dependencies:
-    "@material/feature-targeting" "12.0.0-canary.22d29cbb4.0"
-    tslib "^2.1.0"
-
-"@material/drawer@=12.0.0-canary.22d29cbb4.0":
-  version "12.0.0-canary.22d29cbb4.0"
-  resolved "https://artifactory.colortokens.com/artifactory/api/npm/npm/@material/drawer/-/drawer-12.0.0-canary.22d29cbb4.0.tgz#c50f99259f7460dc2f07ccf5d73e6c33a46e3a14"
-  integrity sha1-xQ+ZJZ90YNwvB8z11z5sM6RuOhQ=
-  dependencies:
-    "@material/animation" "12.0.0-canary.22d29cbb4.0"
-    "@material/base" "12.0.0-canary.22d29cbb4.0"
-    "@material/dom" "12.0.0-canary.22d29cbb4.0"
-    "@material/elevation" "12.0.0-canary.22d29cbb4.0"
-    "@material/feature-targeting" "12.0.0-canary.22d29cbb4.0"
-    "@material/list" "12.0.0-canary.22d29cbb4.0"
-    "@material/ripple" "12.0.0-canary.22d29cbb4.0"
-    "@material/rtl" "12.0.0-canary.22d29cbb4.0"
-    "@material/shape" "12.0.0-canary.22d29cbb4.0"
-    "@material/theme" "12.0.0-canary.22d29cbb4.0"
-    "@material/typography" "12.0.0-canary.22d29cbb4.0"
-    tslib "^2.1.0"
-
-"@material/elevation@12.0.0-canary.22d29cbb4.0":
-  version "12.0.0-canary.22d29cbb4.0"
-  resolved "https://artifactory.colortokens.com/artifactory/api/npm/npm/@material/elevation/-/elevation-12.0.0-canary.22d29cbb4.0.tgz#40c8757e9c40ae2cb8df227786cc877017ee17a0"
-  integrity sha1-QMh1fpxAriy43yJ3hsyHcBfuF6A=
-  dependencies:
-    "@material/animation" "12.0.0-canary.22d29cbb4.0"
-    "@material/base" "12.0.0-canary.22d29cbb4.0"
-    "@material/feature-targeting" "12.0.0-canary.22d29cbb4.0"
-    "@material/theme" "12.0.0-canary.22d29cbb4.0"
-    tslib "^2.1.0"
-
-"@material/feature-targeting@12.0.0-canary.22d29cbb4.0":
-  version "12.0.0-canary.22d29cbb4.0"
-  resolved "https://artifactory.colortokens.com/artifactory/api/npm/npm/@material/feature-targeting/-/feature-targeting-12.0.0-canary.22d29cbb4.0.tgz#68db5b8a16b673a1eb0c4c74de4954caab334e2e"
-  integrity sha1-aNtbiha2c6HrDEx03klUyqszTi4=
-  dependencies:
-    tslib "^2.1.0"
-
-"@material/list@12.0.0-canary.22d29cbb4.0", "@material/list@=12.0.0-canary.22d29cbb4.0":
-  version "12.0.0-canary.22d29cbb4.0"
-  resolved "https://artifactory.colortokens.com/artifactory/api/npm/npm/@material/list/-/list-12.0.0-canary.22d29cbb4.0.tgz#3faa131d5bf5555af235ab8332382d45ed65ce8c"
-  integrity sha1-P6oTHVv1VVryNauDMjgtRe1lzow=
-  dependencies:
-    "@material/base" "12.0.0-canary.22d29cbb4.0"
-    "@material/density" "12.0.0-canary.22d29cbb4.0"
-    "@material/dom" "12.0.0-canary.22d29cbb4.0"
-    "@material/feature-targeting" "12.0.0-canary.22d29cbb4.0"
-    "@material/ripple" "12.0.0-canary.22d29cbb4.0"
-    "@material/rtl" "12.0.0-canary.22d29cbb4.0"
-    "@material/shape" "12.0.0-canary.22d29cbb4.0"
-    "@material/theme" "12.0.0-canary.22d29cbb4.0"
-    "@material/typography" "12.0.0-canary.22d29cbb4.0"
-    tslib "^2.1.0"
-
-"@material/mwc-base@^0.22.1":
-  version "0.22.1"
-  resolved "https://artifactory.colortokens.com/artifactory/api/npm/npm/@material/mwc-base/-/mwc-base-0.22.1.tgz#43766226f5d13279b1baf370fa7bfa76bbe13b6f"
-  integrity sha1-Q3ZiJvXRMnmxuvNw+nv6drvhO28=
-  dependencies:
-    "@material/base" "=12.0.0-canary.22d29cbb4.0"
-    "@material/dom" "=12.0.0-canary.22d29cbb4.0"
-    lit-element "^2.5.1"
-    tslib "^2.0.1"
-
-"@material/mwc-button@^0.22.1":
-  version "0.22.1"
-  resolved "https://artifactory.colortokens.com/artifactory/api/npm/npm/@material/mwc-button/-/mwc-button-0.22.1.tgz#a62ba8eeef5587a2082aae118a14baa3cebbbf58"
-  integrity sha1-piuo7u9Vh6IIKq4RihS6o867v1g=
-  dependencies:
-    "@material/mwc-icon" "^0.22.1"
-    "@material/mwc-ripple" "^0.22.1"
-    lit-element "^2.5.1"
-    lit-html "^1.4.1"
-    tslib "^2.0.1"
-
-"@material/mwc-checkbox@^0.22.1":
-  version "0.22.1"
-  resolved "https://artifactory.colortokens.com/artifactory/api/npm/npm/@material/mwc-checkbox/-/mwc-checkbox-0.22.1.tgz#a349710db458d8e8ed76a377fcdc3debe32764f1"
-  integrity sha1-o0lxDbRY2OjtdqN3/Nw96+MnZPE=
-  dependencies:
-    "@material/mwc-base" "^0.22.1"
-    "@material/mwc-ripple" "^0.22.1"
-    lit-element "^2.5.1"
-    lit-html "^1.4.1"
-    tslib "^2.0.1"
-
-"@material/mwc-drawer@^0.22.1":
-  version "0.22.1"
-  resolved "https://artifactory.colortokens.com/artifactory/api/npm/npm/@material/mwc-drawer/-/mwc-drawer-0.22.1.tgz#a9a8018d99feaed9d71f4abc510688ddbbcdebf4"
-  integrity sha1-qagBjZn+rtnXH0q8UQaI3bvN6/Q=
-  dependencies:
-    "@material/drawer" "=12.0.0-canary.22d29cbb4.0"
-    "@material/mwc-base" "^0.22.1"
-    blocking-elements "^0.1.0"
-    lit-element "^2.5.1"
-    lit-html "^1.4.1"
-    tslib "^2.0.1"
-    wicg-inert "^3.0.0"
-
-"@material/mwc-icon@^0.22.1":
-  version "0.22.1"
-  resolved "https://artifactory.colortokens.com/artifactory/api/npm/npm/@material/mwc-icon/-/mwc-icon-0.22.1.tgz#a2ab2e903d1677c773d5635c9bc81c5ce231d7e6"
-  integrity sha1-oqsukD0Wd8dz1WNcm8gcXOIx1+Y=
-  dependencies:
-    lit-element "^2.5.1"
-    tslib "^2.0.1"
-
-"@material/mwc-list@^0.22.1":
-  version "0.22.1"
-  resolved "https://artifactory.colortokens.com/artifactory/api/npm/npm/@material/mwc-list/-/mwc-list-0.22.1.tgz#05ce340db5b966984cce87dd6f87a3dce6e5450d"
-  integrity sha1-Bc40DbW5ZphMzofdb4ej3OblRQ0=
-  dependencies:
-    "@material/base" "=12.0.0-canary.22d29cbb4.0"
-    "@material/dom" "=12.0.0-canary.22d29cbb4.0"
-    "@material/list" "=12.0.0-canary.22d29cbb4.0"
-    "@material/mwc-base" "^0.22.1"
-    "@material/mwc-checkbox" "^0.22.1"
-    "@material/mwc-radio" "^0.22.1"
-    "@material/mwc-ripple" "^0.22.1"
-    lit-element "^2.5.1"
-    lit-html "^1.4.1"
-    tslib "^2.0.1"
-
-"@material/mwc-radio@^0.22.1":
-  version "0.22.1"
-  resolved "https://artifactory.colortokens.com/artifactory/api/npm/npm/@material/mwc-radio/-/mwc-radio-0.22.1.tgz#8ce674b9686a68673486a46b5a90a101f8195a31"
-  integrity sha1-jOZ0uWhqaGc0hqRrWpChAfgZWjE=
-  dependencies:
-    "@material/mwc-base" "^0.22.1"
-    "@material/mwc-ripple" "^0.22.1"
-    "@material/radio" "=12.0.0-canary.22d29cbb4.0"
-    lit-element "^2.5.1"
-    tslib "^2.0.1"
-
-"@material/mwc-ripple@^0.22.1":
-  version "0.22.1"
-  resolved "https://artifactory.colortokens.com/artifactory/api/npm/npm/@material/mwc-ripple/-/mwc-ripple-0.22.1.tgz#53f29e303f9043c0763ec0c88cb7a6968da2e39b"
-  integrity sha1-U/KeMD+QQ8B2PsDIjLemlo2i45s=
-  dependencies:
-    "@material/dom" "=12.0.0-canary.22d29cbb4.0"
-    "@material/mwc-base" "^0.22.1"
-    "@material/ripple" "=12.0.0-canary.22d29cbb4.0"
-    lit-element "^2.5.1"
-    lit-html "^1.4.1"
-    tslib "^2.0.1"
-
-"@material/radio@=12.0.0-canary.22d29cbb4.0":
-  version "12.0.0-canary.22d29cbb4.0"
-  resolved "https://artifactory.colortokens.com/artifactory/api/npm/npm/@material/radio/-/radio-12.0.0-canary.22d29cbb4.0.tgz#7466a2caad601edd26c532a1507ebf8b556b1d6e"
-  integrity sha1-dGaiyq1gHt0mxTKhUH6/i1VrHW4=
-  dependencies:
-    "@material/animation" "12.0.0-canary.22d29cbb4.0"
-    "@material/base" "12.0.0-canary.22d29cbb4.0"
-    "@material/density" "12.0.0-canary.22d29cbb4.0"
-    "@material/dom" "12.0.0-canary.22d29cbb4.0"
-    "@material/feature-targeting" "12.0.0-canary.22d29cbb4.0"
-    "@material/ripple" "12.0.0-canary.22d29cbb4.0"
-    "@material/theme" "12.0.0-canary.22d29cbb4.0"
-    "@material/touch-target" "12.0.0-canary.22d29cbb4.0"
-    tslib "^2.1.0"
-
-"@material/ripple@12.0.0-canary.22d29cbb4.0", "@material/ripple@=12.0.0-canary.22d29cbb4.0":
-  version "12.0.0-canary.22d29cbb4.0"
-  resolved "https://artifactory.colortokens.com/artifactory/api/npm/npm/@material/ripple/-/ripple-12.0.0-canary.22d29cbb4.0.tgz#9cc50929c66841691e35ac603168a83ef176af6e"
-  integrity sha1-nMUJKcZoQWkeNaxgMWioPvF2r24=
-  dependencies:
-    "@material/animation" "12.0.0-canary.22d29cbb4.0"
-    "@material/base" "12.0.0-canary.22d29cbb4.0"
-    "@material/dom" "12.0.0-canary.22d29cbb4.0"
-    "@material/feature-targeting" "12.0.0-canary.22d29cbb4.0"
-    "@material/theme" "12.0.0-canary.22d29cbb4.0"
-    tslib "^2.1.0"
-
-"@material/rtl@12.0.0-canary.22d29cbb4.0":
-  version "12.0.0-canary.22d29cbb4.0"
-  resolved "https://artifactory.colortokens.com/artifactory/api/npm/npm/@material/rtl/-/rtl-12.0.0-canary.22d29cbb4.0.tgz#589593c59ca384caf2ac16892d55a9e19d7759ea"
-  integrity sha1-WJWTxZyjhMryrBaJLVWp4Z13Weo=
-  dependencies:
-    "@material/theme" "12.0.0-canary.22d29cbb4.0"
-    tslib "^2.1.0"
-
-"@material/shape@12.0.0-canary.22d29cbb4.0":
-  version "12.0.0-canary.22d29cbb4.0"
-  resolved "https://artifactory.colortokens.com/artifactory/api/npm/npm/@material/shape/-/shape-12.0.0-canary.22d29cbb4.0.tgz#30bcae4b99b17414293c5b21707d46a614b96451"
-  integrity sha1-MLyuS5mxdBQpPFshcH1GphS5ZFE=
-  dependencies:
-    "@material/feature-targeting" "12.0.0-canary.22d29cbb4.0"
-    "@material/rtl" "12.0.0-canary.22d29cbb4.0"
-    "@material/theme" "12.0.0-canary.22d29cbb4.0"
-    tslib "^2.1.0"
-
-"@material/theme@12.0.0-canary.22d29cbb4.0":
-  version "12.0.0-canary.22d29cbb4.0"
-  resolved "https://artifactory.colortokens.com/artifactory/api/npm/npm/@material/theme/-/theme-12.0.0-canary.22d29cbb4.0.tgz#a99ff4e33ffb72ec1ac616de31533da02881d278"
-  integrity sha1-qZ/04z/7cuwaxhbeMVM9oCiB0ng=
-  dependencies:
-    "@material/feature-targeting" "12.0.0-canary.22d29cbb4.0"
-    tslib "^2.1.0"
-
-"@material/touch-target@12.0.0-canary.22d29cbb4.0":
-  version "12.0.0-canary.22d29cbb4.0"
-  resolved "https://artifactory.colortokens.com/artifactory/api/npm/npm/@material/touch-target/-/touch-target-12.0.0-canary.22d29cbb4.0.tgz#01b8141ef7f3af406ab62bee073b1e6e2c977c91"
-  integrity sha1-AbgUHvfzr0BqtivuBzsebiyXfJE=
-  dependencies:
-    "@material/base" "12.0.0-canary.22d29cbb4.0"
-    "@material/feature-targeting" "12.0.0-canary.22d29cbb4.0"
-    tslib "^2.1.0"
-
-"@material/typography@12.0.0-canary.22d29cbb4.0":
-  version "12.0.0-canary.22d29cbb4.0"
-  resolved "https://artifactory.colortokens.com/artifactory/api/npm/npm/@material/typography/-/typography-12.0.0-canary.22d29cbb4.0.tgz#cb858a4cca6dcb12111f9e77a3f6711b30f3a4d3"
-  integrity sha1-y4WKTMptyxIRH553o/ZxGzDzpNM=
-  dependencies:
-    "@material/feature-targeting" "12.0.0-canary.22d29cbb4.0"
-    "@material/theme" "12.0.0-canary.22d29cbb4.0"
-    tslib "^2.1.0"
-
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
   resolved "https://registry.npmjs.org/@mrmlnc/readdir-enhanced/-/readdir-enhanced-2.2.1.tgz#524af240d1a360527b730475ecfa1344aa540dde"
@@ -3564,11 +3320,6 @@ block-stream@*:
   resolved "https://registry.yarnpkg.com/block-stream/-/block-stream-0.0.9.tgz#13ebfe778a03205cfe03751481ebb4b3300c126a"
   dependencies:
     inherits "~2.0.0"
-
-blocking-elements@^0.1.0:
-  version "0.1.1"
-  resolved "https://artifactory.colortokens.com/artifactory/api/npm/npm/blocking-elements/-/blocking-elements-0.1.1.tgz#6acddbe2714a029a1774e9219bcf38736e07ded3"
-  integrity sha1-as3b4nFKApoXdOkhm884c24H3tM=
 
 bluebird@^3.5.0, bluebird@^3.5.5:
   version "3.5.5"
@@ -7102,18 +6853,6 @@ levn@^0.3.0, levn@~0.3.0:
     prelude-ls "~1.1.2"
     type-check "~0.3.2"
 
-lit-element@^2.5.1:
-  version "2.5.1"
-  resolved "https://artifactory.colortokens.com/artifactory/api/npm/npm/lit-element/-/lit-element-2.5.1.tgz#3fa74b121a6cd22902409ae3859b7847d01aa6b6"
-  integrity sha1-P6dLEhps0ikCQJrjhZt4R9AaprY=
-  dependencies:
-    lit-html "^1.1.1"
-
-lit-html@^1.1.1, lit-html@^1.4.1:
-  version "1.4.1"
-  resolved "https://artifactory.colortokens.com/artifactory/api/npm/npm/lit-html/-/lit-html-1.4.1.tgz#0c6f3ee4ad4eb610a49831787f0478ad8e9ae5e0"
-  integrity sha1-DG8+5K1OthCkmDF4fwR4rY6a5eA=
-
 load-json-file@^1.0.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/load-json-file/-/load-json-file-1.1.0.tgz#956905708d58b4bab4c2261b04f59f31c99374c0"
@@ -10315,11 +10054,6 @@ tslib@^1.10.0:
   version "1.11.1"
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-1.11.1.tgz#eb15d128827fbee2841549e171f45ed338ac7e35"
 
-tslib@^2.0.1, tslib@^2.1.0:
-  version "2.3.1"
-  resolved "https://artifactory.colortokens.com/artifactory/api/npm/npm/tslib/-/tslib-2.3.1.tgz#e8a335add5ceae51aa261d32a490158ef042ef01"
-  integrity sha1-6KM1rdXOrlGqJh0ypJAVjvBC7wE=
-
 tty-browserify@0.0.0:
   version "0.0.0"
   resolved "https://registry.npmjs.org/tty-browserify/-/tty-browserify-0.0.0.tgz#a157ba402da24e9bf957f9aa69d524eed42901a6"
@@ -10762,11 +10496,6 @@ which@^2.0.1:
   resolved "https://registry.yarnpkg.com/which/-/which-2.0.2.tgz#7c6a8dd0a636a0327e10b59c9286eee93f3f51b1"
   dependencies:
     isexe "^2.0.0"
-
-wicg-inert@^3.0.0:
-  version "3.1.1"
-  resolved "https://artifactory.colortokens.com/artifactory/api/npm/npm/wicg-inert/-/wicg-inert-3.1.1.tgz#b033fd4fbfb9e3fd709e5d84becbdf2e06e5c229"
-  integrity sha1-sDP9T7+54/1wnl2EvsvfLgblwik=
 
 wide-align@^1.1.0:
   version "1.1.3"
