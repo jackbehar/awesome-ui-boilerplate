@@ -3314,6 +3314,11 @@ autoprefixer@^9.7.4:
     postcss "^7.0.27"
     postcss-value-parser "^4.0.3"
 
+awesome-ui-components@^0.0.4:
+  version "0.0.4"
+  resolved "https://artifactory.colortokens.com/artifactory/api/npm/npm/awesome-ui-components/-/awesome-ui-components-0.0.4.tgz#5acf44915d23e8111a9ae17dadb8b8cb957f89c2"
+  integrity sha1-Ws9EkV0j6BEamuF9rbi4y5V/icI=
+
 aws-sign2@~0.7.0:
   version "0.7.0"
   resolved "https://registry.npmjs.org/aws-sign2/-/aws-sign2-0.7.0.tgz#b46e890934a9591f2d2f6f86d7e6a9f1b3fe76a8"
@@ -10543,6 +10548,11 @@ util@^0.11.0:
 uuid@^3.3.2:
   version "3.3.2"
   resolved "https://registry.npmjs.org/uuid/-/uuid-3.3.2.tgz#1b4af4955eb3077c501c23872fc6513811587131"
+
+uuid@^8.3.2:
+  version "8.3.2"
+  resolved "https://artifactory.colortokens.com/artifactory/api/npm/npm/uuid/-/uuid-8.3.2.tgz#80d5b5ced271bb9af6c445f21a1a04c606cefbe2"
+  integrity sha1-gNW1ztJxu5r2xEXyGhoExgbO++I=
 
 v8-compile-cache@2.0.3, v8-compile-cache@^2.0.3:
   version "2.0.3"

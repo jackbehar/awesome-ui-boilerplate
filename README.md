@@ -1,3 +1,5 @@
-# UXPin Merge – React Wrapped Web Components
+# Merge Boilerplate
 
-Using material-web (https://github.com/material-components/material-web) components
+Using Awesome-UI (https://dlucidone.github.io/awesome-ui) components
+
+Using compiled awesome-ui-components.js imported from (https://dlucidone.github.io/awesome-ui/awesome-ui-components/awesome-ui-components.js). Please see UXPinWrapper.js

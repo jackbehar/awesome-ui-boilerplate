@@ -5,16 +5,16 @@ module.exports = {
       {
         name: 'Web Components',
         include: [
-          'src/components/WcButton/WcButton.jsx',
-          'src/components/WcDrawer/WcDrawer.jsx',
-          'src/components/WcList/WcList.jsx',
-          'src/components/WcListItem/WcListItem.jsx',
-          'src/components/WcDropdown/WcDropdown.jsx',
+          'src/components/AuiButton/AuiButton.jsx',
+          'src/components/AuiPaper/AuiPaper.jsx',
+          'src/components/AuiText/AuiText.jsx',
+          'src/components/AuiCollapse/AuiCollapse.jsx',
+          'src/components/AuiInput/AuiInput.jsx',
         ],
       },
     ],
     wrapper: './src/components/UXPinWrapper/UXPinWrapper.js',
     webpackConfig: './webpack.uxpin.config.js',
   },
-  name: 'UXPin Merge Boilerplate',
+  name: 'Awesome UI',
 };
